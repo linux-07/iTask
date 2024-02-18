@@ -83,7 +83,7 @@ function App() {
   return (
     <>
       <Navbar />
-      <div className="md:container mx-3 md:mx-auto my-5 rounded-xl bg-violet-100 p-5 min-h-[89vh] 2xl:w-[40%]">
+      <div className="md:container mx-3 md:mx-auto my-5 rounded-xl bg-violet-100 p-5 min-h-[85vh] md:min-h-[89vh] 2xl:w-[40%]">
         <h1 className='font-bold text-2xl text-blue-400 text-center'>iTask - Your All in One Task Manager !!</h1>
         <div className="my-5 flex flex-col gap-5">
           <h2 className='text-lg font-bold my-1'>Add a Task</h2>
