@@ -3,7 +3,7 @@
 This is a simple task management application built using React with Vite and Tailwind CSS. With iTask, you can easily add, edit, delete, and manage your tasks effectively.
 
 ## Use Online:
-Hosted on (https://task-manager-react-gold.vercel.app/)[https://task-manager-react-gold.vercel.app/]
+Hosted on [https://task-manager-react-gold.vercel.app/](https://task-manager-react-gold.vercel.app/)
 
 ## Features
 
