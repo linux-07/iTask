@@ -39,7 +39,7 @@ To run this application locally, follow these steps:
 
 ## License
 
-This project is licensed under the Apache License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT LICENSE - see the [LICENSE](LICENSE) file for details.
 
 ## Author
 
