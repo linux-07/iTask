@@ -19,12 +19,12 @@ To run this application locally, follow these steps:
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/arnavnagpurkar/Task-Manager-React.git
+    git clone https://github.com/arnavnagpurkar/iTask.git
     ```
 
 2. Navigate into the project directory:
     ```bash
-    cd your-repo
+    cd iTask
     ```
 
 3. Install dependencies:
